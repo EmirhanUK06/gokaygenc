@@ -1,7 +1,7 @@
 Arkadaşlar selam,
 
- 1. Başlangıç haftasında sizlerden versiyon kontrol sistemleri nelerdir ve ne işe yarar sorularına cevap bulmanızı bekliyorum. (Github, Bitbucket, Gitlab vb. alternatifleri ile karşılaşmalısınız. Bunun yanında
-bu sistemleri kullanırken ne gibi sorunlar ile karşılaşılıyor bunları da araştırmalısınız.)
+ 1. Başlangıç haftasında sizlerden versiyon kontrol sistemleri nelerdir ve ne işe yarar sorularına cevap bulmanızı bekliyorum. (Github, Bitbucket, Gitlab vb. alternatifleri ile karşılaşmalısınız. 
+Bunun yanında bu sistemleri kullanırken ne gibi sorunlar ile karşılaşılıyor bunları da araştırmalısınız.)
  2. Git hakkında bilgi edinmenizi ve komutlarını öğrenmenizi bekliyorum.
  3. Bir github hesabı açmanızı, bir repository oluşturmanızı ve branchler oluşturarak haftalık çalışmalarınızı yüklemenizi bekliyorum. Review verebilmek adına bu basamak oldukça önemli. 
 (Açacağınız repoyu public olarak açmayı unutmayın. Her hafta için ayrı bir branch açmalısınız. ör. Week_1 vb. Bunu haftalık olarak veya toplu olarak yapabilirsiniz.)
