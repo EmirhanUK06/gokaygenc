@@ -1,0 +1,15 @@
+Arkadaşlar selam,
+
+ 1. Başlangıç haftasında sizlerden versiyon kontrol sistemleri nelerdir ve ne işe yarar sorularına cevap bulmanızı bekliyorum. (Github, Bitbucket, Gitlab vb. alternatifleri ile karşılaşmalısınız. Bunun yanında
+bu sistemleri kullanırken ne gibi sorunlar ile karşılaşılıyor bunları da araştırmalısınız.)
+ 2. Git hakkında bilgi edinmenizi ve komutlarını öğrenmenizi bekliyorum.
+ 3. Bir github hesabı açmanızı, bir repository oluşturmanızı ve branchler oluşturarak haftalık çalışmalarınızı yüklemenizi bekliyorum. Review verebilmek adına bu basamak oldukça önemli. 
+(Açacağınız repoyu public olarak açmayı unutmayın. Her hafta için ayrı bir branch açmalısınız. ör. Week_1 vb. Bunu haftalık olarak veya toplu olarak yapabilirsiniz.)
+ 4. Programlama dili olarak Python dilini baz alacağız. Python için gerekli olan IDE (IDE kavramını bilmiyor iseniz araştırın lütfen.) kurulumlarını yapınız. 
+(Visual Studio Code ve Python 3.13 release kullanıyorum ancak alternatifleri kullanabilirsiniz. code.visualstudio.com ve python.org adreslerinden indirmeyi yapabilirsiniz.)
+  
+Versiyon kontrol sistemleri iş hayatında sıklıkla karşılaşacağınız bir alan olacaktır. Burada sizlere sadece kodlama bilgisinin yanı sıra iş hayatında da karşınıza çıkacak konular hakkında da
+bilgi vermeye çalışıyorum. Sizlerden beklentim üstünkörü bir araştırmadan ziyade bu başlıkların detaylarına girerek 'temel mantığını' kavramanızdır. Gün sonunda sizleri diğer kişilerin önüne
+geçireceğine şüpheniz olmasın.
+
+ 
