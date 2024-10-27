@@ -1,0 +1,30 @@
+2. haftada size whatsapp grubu üzerinden ilettiğim Git ve Github başlığına kapsamlı bir şekilde göz atmanızı bekliyorum. Bunu gerçeklemenizi de proje kısmında istiyorum.
+Week_2 adında bir repository açıp içerisine yazacağınız kaynak kodları için commit ve push işleminini yapmalısınız. Yapacağınız tüm çalışmalar GitHub'a yüklenmelidir.
+
+Python kısmında ise bu hafta şu başlıklara bakarak proje gerçeklemesini yapmalısınız:
+
+Syntax,
+Comments,
+Variables,
+Data types,
+Numbers,
+Casting,
+Strings,
+Booleans,
+Operators,
+Lists,
+Tuples,
+Sets,
+Dictionaries,
+Loops,
+If else,
+
+Proje Detayları (Python console app.)
+
+* Öğrenci no, isim, soyisim, bölüm ve sınıf bilgilerini tutabileceğiniz bir dictionary oluşturun ve konsol ekranına yazdırın. (Toplam 5 farklı öğrenciye ait veriye ihtiyacınız olacak.
+Burada dictionary isimleri ogrenci{Number}Dict formatında olmalı. Number yazan kısma sıra numarası gelmeli. Ör: Bir,Iki,Üc,Dort,Bes)
+* Öğrencilere ait veriler rastgele olabilir ancak gerçekliğe uygun veriler olmalıdır. (Öğrenci numaraları mühendislik fakültesine uygun olmalı. Ör: 1030526678, 1030571360)
+* Öğrenci numarası çift olan ve tek olan kullanıcıları ayrı birer liste içerisine yerleştirin ve konsol ekranına yazdırın.
+* Çift veya tek olan listelerin içerisinde 4. sınıf öğrencisi olup olmadığını kontrol edin. Varlık durumuna göre bir boolean değeri atayın. Var ise true, yok ise false dönmeli.
+
+3 Kasım'a kadar tamamlamanızı bekliyorum. İyi çalışmalar.
